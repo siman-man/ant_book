@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# Input file
+*.in
+
+# dust file
+*.swp
